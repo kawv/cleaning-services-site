@@ -76,7 +76,6 @@ $(function () {
 			autoplayHoverPause: true
 		});
 	});
-
 	/* OwlCarousel - Banner Rotator Slider
 	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
 
@@ -219,7 +218,6 @@ $(function () {
 			dynamicBullets: true
 		},
 	});
-
 
 	/* Product Filters
 	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
